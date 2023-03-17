@@ -14,14 +14,14 @@ import com.sunman.version.eight.javatechie.stream.realexample.Employee;
 public class MapSortingDemo {
 
 	public MapSortingDemo() {
-		//sortMapOnKeys();
-		//sortMapOnValue();
-		//sortMapOnKeysWithLambda();
-		//sortMapOnValuesWithLambda();
-		//sortMapOnKeysWithLambdaAndStream();
-		//sortMapOnValuesWithLambdaAndStream();
-		//sortEmployee();
-		//sortEmployeeWithLambda();
+		sortMapOnKeys();
+		sortMapOnValue();
+		sortMapOnKeysWithLambda();
+		sortMapOnValuesWithLambda();
+		sortMapOnKeysWithLambdaAndStream();
+		sortMapOnValuesWithLambdaAndStream();
+		sortEmployee();
+		sortEmployeeWithLambda();
 		sortEmployeeWithLambdaAndStream();
 	}
 
