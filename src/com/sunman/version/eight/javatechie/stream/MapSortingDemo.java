@@ -23,6 +23,7 @@ public class MapSortingDemo {
 		sortEmployee();
 		sortEmployeeWithLambda();
 		sortEmployeeWithLambdaAndStream();
+		
 	}
 
 

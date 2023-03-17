@@ -13,6 +13,7 @@ public class OptionalClassTest {
 	}
 	
 	private void test() {
+		System.out.println("in Test method");
 		
 		List<String> fruits = List.of("banana", "mango");
 		Predicate<String> pridicate = fruit -> fruit.startsWith("m");
